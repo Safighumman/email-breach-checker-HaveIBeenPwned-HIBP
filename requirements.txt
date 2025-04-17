@@ -4,3 +4,11 @@ python-dotenv
 
 Install with:
     pip install -r requirements.txt
+
+
+✅ Notes on API Usage
+You must include a User-Agent header in your request.
+
+The API rate-limits unauthenticated users and requires a key for full access.
+
+HIBP also supports domain-wide searches if your domain is verified — could be a future feature.
