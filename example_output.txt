@@ -1,0 +1,12 @@
+=== Email Breach Checker ===
+Enter email address: janedoe@example.com
+
+[!] Email found in 2 breach(es):
+
+1. Breach: Dropbox (2012)
+   - Data: Emails, Passwords
+   - Verified: True
+
+2. Breach: Adobe (2013)
+   - Data: Emails, Password hints
+   - Verified: True
